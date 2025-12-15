@@ -1,0 +1,15 @@
+[BaseOS]
+name=FTP for RHEL - BaseOS
+baseurl=ftp://172.25.250.30/pub/rhel8/BaseOS
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
+[AppStream]
+name=FTP for RHEL - AppStream
+baseurl=ftp://172.25.250.30/pub/rhel8/AppStream
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
+

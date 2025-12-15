@@ -1,0 +1,26 @@
+#INFRA
+#10
+192.168.2.10  satellite.lab.dev.example.com
+192.168.2.11  capsule.lab.dev.example.com
+192.168.2.17  idm.lab.dev.example.com
+192.168.2.18  registry.lab.dev.example.com
+#30
+192.168.2.30  storage.lab.dev.example.com
+192.168.2.31  ceph0.lab.dev.example.com
+#50
+192.168.2.50  ocp-drac.lab.dev.example.com
+#70
+192.168.2.70  node01.lab.dev.example.com
+#80
+192.168.2.80  ocp.lab.dev.example.com
+192.168.2.82  jenkinsmaster.lab.dev.example.com
+#120
+192.168.2.129  dns.lab.dev.example.com
+#130
+192.168.2.134 instserv.lab.dev.example.com
+192.168.2.135  puppetmaster.lab.dev.example.com
+#200
+192.168.2.200 ovirtilo.local ilo
+192.168.2.201 coresw.local
+192.168.2.202 vpnsrv.foad.local
+192.168.2.203 ovirtilo2.local
