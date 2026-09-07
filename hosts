@@ -1,0 +1,76 @@
+#SATELLITE KVM NETWORK 172.25.250.0/24
+#SATELLITE Network
+172.25.250.1
+172.25.250.2
+172.25.250.3
+172.25.250.4
+172.25.250.5
+172.25.250.6  
+172.25.250.7   gitlab.lab.dev.example.com
+172.25.250.8   jenkinsmaster.lab.dev.example.com
+172.25.250.9   workstation.lab.dev.example.com
+172.25.250.10  satellite.lab.dev.example.com
+172.25.250.11  capsule.lab.dev.example.com		
+172.25.250.12  servera.lab.dev.example.com
+172.25.250.13  serverb.lab.dev.example.com
+172.25.250.14  serverc.lab.dev.example.com
+172.25.250.15  serverd.lab.dev.example.com
+172.25.250.16  servere.lab.dev.example.com
+172.25.250.17  idm.lab.dev.example.com
+172.25.250.18  tower.lab.dev.example.com
+172.25.250.19  power.lab.dev.public.example.com
+172.25.250.20  nodea.lab.dev.public.example.com
+172.25.250.21  nodeb.lab.dev.public.example.com
+172.25.250.22  nodec.lab.dev.public.example.com
+172.25.250.23  noded.lab.dev.public.example.com
+172.25.250.24  dev.lab.dev.example.com
+172.25.250.25  beakerserver.lab.dev.example.com beakers
+172.25.250.26  beakercontr.lab.dev.example.com
+172.25.250.27  test.lab.dev.example.com
+172.25.250.28
+172.25.250.29
+172.25.250.30  storage.lab.dev.example.com
+172.25.250.31  packstack.lab.dev.example.com
+172.25.250.32  ceph0.overcloud.lab.example.com
+172.25.250.33
+172.25.250.34
+172.25.250.35
+172.25.250.36
+172.25.250.37
+172.25.250.38
+172.25.250.39
+172.25.250.40
+172.25.250.41
+172.25.250.42
+172.25.250.43
+172.25.250.44
+172.25.250.45
+172.25.250.46
+172.25.250.47
+172.25.250.48
+172.25.250.49
+172.25.250.50
+172.25.250.51
+172.25.250.52
+172.25.250.53
+172.25.250.54
+172.25.250.55
+172.25.250.56
+172.25.250.57
+172.25.250.58
+172.25.250.59
+172.25.250.60
+172.25.250.61
+172.25.250.62
+172.25.250.63
+172.25.250.64
+172.25.250.65
+172.25.250.66
+172.25.250.67  oracle-node01.lab.dev.example.com
+172.25.250.68  oracle-node02.lab.dev.example.com
+172.25.250.69  oracle-scan.lab.dev.example.com
+172.25.250.70  oracle-scan.lab.dev.example.com
+172.25.250.71  oracle-scan.lab.dev.example.com
+172.25.250.72  oracle-node01-virt.lab.dev.example.com
+172.25.250.73   oracle-node02-virt.lab.dev.example.com
+
